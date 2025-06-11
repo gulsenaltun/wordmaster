@@ -28,6 +28,9 @@ lib/
 
 ## Kurulum
 
+Bu projede `lib/firebase_options.dart` dosyası sadece örnek amaçlı bırakılmıştır.
+Projeyi çalıştırmadan önce kendi `firebase_options.dart` dosyanızı oluşturmanız gerekir.
+
 1. Flutter'ı yükleyin:
 ```bash
 # Flutter SDK'yı indirin ve kurun
